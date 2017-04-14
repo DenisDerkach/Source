@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int guess = 50;
+	int guess = 1;
 	char response;
 	printf("Choose an integer in the range from 1 to 100. I'll try to guess ");
 	printf("it. \nPress the y key, if my guess is correct and ");
